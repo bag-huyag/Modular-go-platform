@@ -1,4 +1,4 @@
-module platform
+module Modular-go-platform
 
 go 1.17
 
